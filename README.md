@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 我是 Julie 👋
 
 <!--
 **juliewah/juliewah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
