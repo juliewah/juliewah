@@ -16,6 +16,11 @@
 - PHP
 - Python
 
-📫 Email: juliewah8785@gmail.com
-😄 技術筆記: https://juliewah.github.io/
-⚡ 技術簡報: https://slides.com/juliewah
+#### 📫 Email
+juliewah8785@gmail.com
+
+#### 😄 技術筆記
+https://juliewah.github.io/
+
+#### ⚡ 技術簡報
+https://slides.com/juliewah
