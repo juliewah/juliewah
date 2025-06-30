@@ -1,6 +1,8 @@
 ### Hi, I'm Julie 👋
+I'm a frontend developer with a focus on building responsive and user-friendly web applications.  
+Currently, I'm working on a Nuxt 3 project and continuously exploring the Vue ecosystem.
 
-#### 💻 Skills
+#### 💻  Skills
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -18,6 +20,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 📫 Email: juliewah8785@gmail.com
-- 😄 Notes: https://juliewah.github.io/
-- ⚡ Slides: https://slides.com/juliewah
+📫 Reach me: juliewah8785@gmail.com  
+📚 Blog: [juliewah.github.io](https://juliewah.github.io/)  
+📊 Slides: [slides.com/juliewah](https://slides.com/juliewah)
