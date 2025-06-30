@@ -1,6 +1,21 @@
-## Hi, 我是 Julie 👋
+### Hi, 我是 Julie 👋
 
-- 🌱 正在學習 Nuxt3、Vue3、TypeScript 與第三方登入串接
+- 🔭 Fronted
+HTML
+CSS/SCSS
+RWD
+JavaScript
+Vue.js
+Nuxt3
+TypeScript
+
+- 🌱 Backend
+Node.js
+Express.js
+MySQL
+PHP
+Python
+
 - 📫 Email: juliewah8785@gmail.com
 - 😄 技術筆記: https://juliewah.github.io/
 - ⚡ 技術簡報: https://slides.com/juliewah
